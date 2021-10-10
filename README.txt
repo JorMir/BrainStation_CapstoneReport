@@ -2,6 +2,8 @@ ReadMe
 
 Hello Reader! This is a readme file for Jordan Miranda's capstone project that was submitted for BrainStation's Data Science course.
 
+The focus on this project was to use Clustering, an Unsupervised Learning technique, to identify players of similar skill levels and playstyle.
+
 The Jordan_Miranda_CapstoneReport folder contains the following:
 
 - 1 readme file
